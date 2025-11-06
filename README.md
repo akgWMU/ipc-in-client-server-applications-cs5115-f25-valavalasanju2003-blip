@@ -18,9 +18,11 @@ Run:
 
 ## How to Run
 Open 1st terminal:
+
     ./server
 
 Open another terminal (or several):
+
     ./client
 
 ## Exit
@@ -28,4 +30,5 @@ Type 'exit' in client to close it.
 
 ## Cleanup
 Run:
+
     make clean
